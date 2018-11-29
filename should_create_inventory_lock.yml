@@ -2,7 +2,7 @@ request:
   method: POST
   url: /inventories/lock
   headers:
-    Content-Type: application/json
+    Content-Type: application/json;charset=UTF-8
   body: |
     {
       "productId": 11,

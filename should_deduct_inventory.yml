@@ -1,7 +1,5 @@
 request:
   method: PUT
   url: /inventories/lock/1
-  headers:
-    Content-Type: application/json
 response:
   status: 200
