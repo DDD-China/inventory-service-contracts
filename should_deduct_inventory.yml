@@ -1,6 +1,6 @@
 request:
   method: PUT
-  url: /inventories/1
+  url: /inventories/lock/1
   headers:
     Content-Type: application/json
   matchers:
